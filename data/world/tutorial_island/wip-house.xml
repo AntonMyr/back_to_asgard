@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Starter House" houseid="1" entryx="1163" entryy="1061" entryz="7" rent="0" townid="1" size="477" />
+	<house name="Chefs House" houseid="2" entryx="1127" entryy="1117" entryz="7" rent="0" townid="1" size="165" />
+	<house name="Miners House" houseid="3" entryx="1130" entryy="1040" entryz="7" rent="0" townid="1" size="139" />
+</houses>
